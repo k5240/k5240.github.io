@@ -1,5 +1,5 @@
 ---
-layout:
-post: new file
+layout: post
+title: new file
 ---
 シュミレーションとエレメントタリー
